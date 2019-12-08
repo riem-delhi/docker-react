@@ -9,5 +9,5 @@ script:
   - docker run riem-delhi/docker-react npm run test -- --coverage
 
 git:
-  depth: "25"
-  quiet: "true"
+  depth: 25
+  quiet: true
